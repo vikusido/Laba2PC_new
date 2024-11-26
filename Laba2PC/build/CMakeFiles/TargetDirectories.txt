@@ -1,0 +1,8 @@
+/home/vikusido/Laba2PC/build/CMakeFiles/edit_cache.dir
+/home/vikusido/Laba2PC/build/CMakeFiles/rebuild_cache.dir
+/home/vikusido/Laba2PC/build/server_f/CMakeFiles/server.dir
+/home/vikusido/Laba2PC/build/server_f/CMakeFiles/edit_cache.dir
+/home/vikusido/Laba2PC/build/server_f/CMakeFiles/rebuild_cache.dir
+/home/vikusido/Laba2PC/build/client_f/CMakeFiles/client.dir
+/home/vikusido/Laba2PC/build/client_f/CMakeFiles/edit_cache.dir
+/home/vikusido/Laba2PC/build/client_f/CMakeFiles/rebuild_cache.dir
